@@ -369,6 +369,11 @@ SpeechAndroid.TAIWAN
 SpeechAndroid.TAGALOG_PHILIPPINES
 ```
 ***
+### Iran / Persian
+```javascript
+SpeechAndroid.PERSIAN
+```
+***
 ### Thai
 ```javascript
 SpeechAndroid.THAI
